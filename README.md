@@ -1,2 +1,3 @@
-# zed-wei-demo
-just a demo for github
+## 快速使用
+- [使用文档](./doc/use/README.md)
+- [二次开发文档](./doc/dev/README.md)
